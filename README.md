@@ -37,6 +37,14 @@ Transform messy ideas, unclear text, and unpolished content into clear, professi
 - **File & Text Support**: Work with inline text or read directly from files
 - **Professional Quality**: Transform casual drafts into polished, professional content
 
+### Demo & Tutorial
+
+Watch a comprehensive demonstration of A1-Skills in action:
+
+[![A1-Skills Demo](https://img.shields.io/badge/Watch-Demo-red?logo=youtube)](https://www.youtube.com/watch?v=OaLPhkGa640)
+
+[**View Tutorial Video**](https://www.youtube.com/watch?v=OaLPhkGa640)
+
 ---
 
 ## Features
